@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kevinwu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/mockwebserver/2.2.0/e7cbb34f681c3d830b099d0c15f2f1b1dc9ce4fd/mockwebserver-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e7cbb34f681c3d830b099d0c15f2f1b1dc9ce4fd">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/mockwebserver-2.2.0-779be420ee46547190411df2a8b86fb8e223692f.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-49c4eed9671205714fa92e911c4cd3dce850d2b1.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-6af46971ca859aba16e17aac5be45500a9294405.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/AndroidStudioProjects/Vortex/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/kevinwu/AndroidStudioProjects/Vortex/app/build/intermediates/pre-dexed/debug/classes-9c923968b18095f3b6b412d62fc0a985f660822d.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.50/be504b4901d75cbe129a178f5830e6c358ec214c/bcprov-jdk15on-1.50.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="be504b4901d75cbe129a178f5830e6c358ec214c">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/bcprov-jdk15on-1.50-3d8dc2c4caea62d6867d9f11868b3f35f2ffe608.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/classes-043e7c56843424061f4141d0921fd9f0ecf98973.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a10951a63a788dc6eed4503862bfb1f70f26c8ca.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-9586b1643aa2acc924a9fa4b86551940a9ae3014.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/AndroidStudioProjects/Vortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/kevinwu/AndroidStudioProjects/Vortex/app/build/intermediates/pre-dexed/debug/classes-2becd847b9ba1d42919e875cc13ac55cd4e76377.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/okio-1.2.0-55a4eed6aed657be803effdaa3a8fce7b1cc2ea8.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/kevinwu/Documents/Ex_Files_NoteTaking_Android/Exercise Files/Solutions/03_GettingStarted/Vortex/app/build/intermediates/pre-dexed/debug/classes-7a7653b76f128b260865eb8c2549c3bcd95527b3.jar" />
+    </item>
+    <item
+        jar="/home/kevinwu/AndroidStudioProjects/Vortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/kevinwu/AndroidStudioProjects/Vortex/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ed1512a83d5db8089f5ab045a643f52796134391.jar" />
+    </item>
+
+</items>
