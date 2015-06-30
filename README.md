@@ -1,3 +1,3 @@
 # Android-Weather-Application
 
-/home/kevinwu/Pictures/WeatherApp.png
+![Alt text](https://github.com/kevincwuu/Android-Weather-Application/blob/master/WeatherApp.png "Screenshot")
